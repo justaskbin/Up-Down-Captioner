@@ -1,9 +1,9 @@
 [submodule "external/coco"]
 	path = external/coco
-	url = git://github.com/pdollar/coco.git
+	url = https://github.com/pdollar/coco.git
 [submodule "external/coco-caption"]
 	path = external/coco-caption
-	url = git://github.com/peteanderson80/coco-caption.git
+	url = https://github.com/peteanderson80/coco-caption.git
 [submodule "external/caffe"]
 	path = external/caffe
-	url = git://github.com/peteanderson80/caffe.git
+	url = https://github.com/peteanderson80/caffe.git
